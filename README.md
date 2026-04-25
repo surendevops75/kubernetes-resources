@@ -1,5 +1,7 @@
 # Kubernetes Resources Repository 🚀
 
+## 📌 Repository Description
+
 This repository contains Kubernetes YAML manifest files for learning, practicing, and deploying core Kubernetes resources including workloads, networking, configuration management, and persistent storage.
 
 Designed for DevOps Engineers, Cloud Engineers, and Kubernetes learners.
